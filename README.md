@@ -7,7 +7,14 @@
 #### Please use the Ipynb file in the repository for a detailed explanation of this project. This is because the project has been completed and the steps have been written in the notebook referenced in the repository.
 Link - https://github.com/SudeepSinha09/ML-Project_2-Predicting_Churn_for_Bank_Customers/blob/main/Predicting%20Churn%20for%20Bank%20Customers.ipynb
 
-## project brief
+## An Overview of EDA
+
+![image](https://user-images.githubusercontent.com/93086122/207616560-34139ea3-4b81-434b-b286-7d9d0c50bb53.png)
+
+![image](https://user-images.githubusercontent.com/93086122/207616669-3fd705c3-4165-4959-9143-8611216f1eb5.png)
+
+
+## Project Brief
 
 As part of this project, I cleaned the data, after which I train-tested the data, and then I made models using the train data.
 
